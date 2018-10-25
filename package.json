@@ -1,0 +1,46 @@
+{
+  "name": "one",
+  "version": "0.1.0",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve --port 3001 --host 127.0.0.1",
+    "start": "node ./app.js",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "iview": "^3.1.3",
+    "mint-ui": "^2.2.9",
+    "mysql": "^2.16.0",
+    "sass-loader": "^7.1.0",
+    "vue": "^2.5.16",
+    "vue-aplayer": "^1.6.1",
+    "vue-image-scroll": "^1.0.2",
+    "vue-resource": "^1.3.4",
+    "vue-router": "^3.0.1",
+    "vue-star": "0.0.4",
+    "vue-ydui": "^1.2.6",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.0-rc.5",
+    "@vue/cli-service": "^3.0.0-rc.5",
+    "font-awesome": "^4.7.0",
+    "vue-template-compiler": "^2.5.16",
+    "webpack-dev-server": "^2.9.7"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}

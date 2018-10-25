@@ -1,0 +1,52 @@
+
+@font-face {font-family: "iconfont";
+  src: url('../fonts/iconfont.ttf'); /* IE9*/
+  src: url('../fonts/iconfont.ttf') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/iconfont.ttf') format('woff'),
+  url('../fonts/iconfont.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('../fonts/iconfont.ttf') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-qunfengqqkongjian:before { content: "\e6e4"; }
+
+.icon-logo-weibo:before { content: "\e618"; }
+
+.icon-xiazai:before { content: "\e601"; }
+
+.icon-weixin-copy:before { content: "\e652"; }
+
+.icon-pengyouquan-copy:before { content: "\e655"; }
+
+.icon-shouye:before { content: "\e637"; }
+
+.icon-like_fill:before { content: "\e707"; }
+
+.icon-like:before { content: "\e708"; }
+
+.icon-video:before { content: "\e73b"; }
+
+.icon-video_fill:before { content: "\e73c"; }
+
+.icon-icon-test:before { content: "\e674"; }
+
+.icon-icon--:before { content: "\e74e"; }
+
+.icon-yinle1:before { content: "\e61a"; }
+
+.icon-shipin4:before { content: "\e656"; }
+
+.icon-geren:before { content: "\e610"; }
+
+.icon-faxian1:before { content: "\e63b"; }
+
+.icon-vuejs:before { content: "\f25f"; }
+
+.icon-shouye1:before { content: "\e619"; }

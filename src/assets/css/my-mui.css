@@ -1,0 +1,26 @@
+.mui-bar-tab .mui-tab-item.mui-active{
+    color: #000;
+}
+.mui-bar .mui-icon{
+    font-size: 30px;
+}
+.icon-shouye{
+    font-size:28px!important;
+}
+.icon-geren{font-size: 32px!important;}
+
+.mui-card-footer{
+    border-radius: 7px; 
+    overflow: hidden;
+    margin: 0 5px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+hr{
+    color: #eee
+}
+p{
+    margin: 0;
+}
